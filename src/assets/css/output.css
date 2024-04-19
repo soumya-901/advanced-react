@@ -553,3 +553,11 @@ video {
   --tw-contain-paint:  ;
   --tw-contain-style:  ;
 }
+
+.flex {
+  display: flex;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}

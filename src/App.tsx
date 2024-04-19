@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div className="d">
+      <div className=" bg-slate-200 ">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
